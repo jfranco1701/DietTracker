@@ -9,11 +9,11 @@
 * I can click the “Login” button and if the proper credentials have been entered, the system will log me in.
 
 #### As a general user, I want to search for food items I have consumed and add them to a meal, so I can track my daily intake.
-Accept search criteria from the user.
-Search the USDA Food Composition Database using their REST API.
-Display search results to user.
-Allow the user to select an item from the return results.
-Allow the user to save the food item, quantity and meal type in the system.
+* Accept search criteria from the user.
+* Search the USDA Food Composition Database using their REST API.
+* Display search results to user.
+* Allow the user to select an item from the return results.
+* Allow the user to save the food item, quantity and meal type in the system.
 
 #### As a general user, I want to be able to create custom food items that can be saved in the system, so I can track items that are not found in a search. 
 
