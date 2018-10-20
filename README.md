@@ -1,8 +1,10 @@
 # DietTracker
-Installation
-Getting Started
-License
 
+## Installation
+
+## Getting Started
+
+# License
 MIT License
 
 Copyright (c) 2018 Joe Franco
