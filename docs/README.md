@@ -1,12 +1,12 @@
 # User Stories
 
-As a general user, I want to create an account, so I can begin tracking my diet.
-I can enter my email address, name and password from the create user page.
-I can click the “Sign-up” button and the system will create a new account providing the email address has not been previously used.
+### As a general user, I want to create an account, so I can begin tracking my diet.
+* I can enter my email address, name and password from the create user page.
+* I can click the “Sign-up” button and the system will create a new account providing the email address has not been previously used.
 
-As a general user, I want to login to the site, so I can track and view the progress of my diet. 
-When not logged on to the system, I can enter my email address and password on the login page.  
-I can click the “Login” button and if the proper credentials have been entered, the system will log me in.
+### As a general user, I want to login to the site, so I can track and view the progress of my diet. 
+* When not logged on to the system, I can enter my email address and password on the login page.  
+* I can click the “Login” button and if the proper credentials have been entered, the system will log me in.
 
 As a general user, I want to search for food items I have consumed and add them to a meal, so I can track my daily intake.
 Accept search criteria from the user.
