@@ -1,0 +1,3 @@
+[submodule "DietTracker-frontend"]
+	path = DietTracker-frontend
+	url = https://github.com/jfranco1701/DietTracker-frontend
