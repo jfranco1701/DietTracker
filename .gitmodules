@@ -1,3 +1,6 @@
 [submodule "DietTracker-frontend"]
 	path = DietTracker-frontend
 	url = https://github.com/jfranco1701/DietTracker-frontend
+[submodule "DietTracker-backend"]
+	path = DietTracker-backend
+	url = https://github.com/jfranco1701/DietTracker-backend
