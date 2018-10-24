@@ -45,10 +45,10 @@
 # Website Mockup
 
 #### Default Page
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/default.jpg" width="50%">
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg" width="50%">
 
 #### Create User Page
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/new_user.jpg" width="50%">
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/New User.jpg" width="50%">
 
 #### Login Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg" width="50%">
