@@ -44,9 +44,14 @@
 
 # Website Mockup
 
-![Default Page](https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg | width=48)  "Default Page")
-
+#### Default
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg" width="50%">
+#### Create User
+
+#### Login
+
+
+
 
 # Architecture Diagram
 
