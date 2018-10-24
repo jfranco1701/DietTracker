@@ -51,12 +51,22 @@
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/New User.jpg" width="50%">
 
 #### Login Page
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg" width="50%">
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Log In.jpg" width="50%">
 
 #### Home Page
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg" width="50%">
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Home.jpg" width="50%">
 
+#### Add Meal Item Page
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Add Meal Item.jpg" width="50%">
 
+#### Search Item Page
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Search Item.jpg" width="50%">
+
+#### Create Item Page
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Create Item.jpg" width="50%">
+
+#### Add Weight Page
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Add Weight.jpg" width="50%">
 
 
 # Architecture Diagram
