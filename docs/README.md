@@ -44,7 +44,7 @@
 
 # Website Mockup
 
-![Default Page](https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg =100x20) "Default Page")
+![Default Page](https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg){:height="36px" width="36px"} "Default Page")
 
 
 
