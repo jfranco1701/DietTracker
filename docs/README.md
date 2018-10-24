@@ -44,7 +44,7 @@
 
 # Website Mockup
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Default Page](https://github.com/jfranco1701/DietTracker/edit/master/docs/default.jpg "Default Page")
 
 
 
