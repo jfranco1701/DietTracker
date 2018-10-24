@@ -46,7 +46,7 @@
 
 ![Default Page](https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg | width=48)  "Default Page")
 
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg" width="48">
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Default.jpg" width="50%">
 
 # Architecture Diagram
 
