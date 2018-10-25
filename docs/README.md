@@ -65,6 +65,9 @@
 #### Create Item Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Create Item.jpg" width="50%">
 
+#### My Favorites Page
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/My Favorites.jpg" width="50%">
+
 #### Add Weight Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Add Weight.jpg" width="50%">
 
