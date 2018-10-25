@@ -8,12 +8,15 @@
 * When not logged on to the system, I can enter my email address and password on the login page.  
 * I can click the “Login” button and if the proper credentials have been entered, the system will log me in.
 
+#### As a general user, I want to be able to display a graph of my progress, so I can view the progress of my diet.
+* When logged in to the system, I can view a graph of my progress from the site's home page.
+
 #### As a general user, I want to search for food items I have consumed and add them to a meal, so I can track my daily intake.
-* Accept search criteria from the user.
-* Search the USDA Food Composition Database using their REST API.
-* Display search results to user.
-* Allow the user to select an item from the return results.
-* Allow the user to save the food item, quantity and meal type in the system.
+* I can enter my search criteria for the food or beverage item.
+* I can click the "Search" button to search user created meal items and the USDA Food Composition Database using their REST API.
+* I can view the results that meet my search criteria.
+* I can select an item from the list.
+* I can save the food item, quantity and meal type in the system.
 
 #### As a general user, I want to be able to create custom food items that can be saved in the system, so I can track items that are not found in a search. 
 * I can click the "Create" button and enter the information about the food item.
@@ -21,14 +24,11 @@
 
 #### As a general user, I want to create a list of favorite food items, so I can easily add items that I eat regularly.
 * I can click on the "Add to Favorites" link to store the item in the My Favorites list.
-* I can click on the "Remove From Favorites" link to remove the item from the My Favorites list.
+* I can click on the "Remove" link from the My Favorite Items page to remove the item.
 
 #### As a general user, I want to add my current weight, so I can track my weight loss.
-* I can click on the "Track Weight" button and enter the date and weight information.
+* I can click on the "Add Weight" button and enter the date and weight information.
 * I can click on the "Save" button to store the information in the system.
-
-#### As a general user, I want to be able to display a graph of my progress, so I can view the progress of my diet.
-* When logged in to the system, I can view a graph of my progress from the site's home page.
 
 #### As an admin user, I want to be able to review custom food items added by users, so I can prevent inappropriate entries.
 * I can view a list of all the custom food items.
@@ -70,7 +70,6 @@
 
 #### Add Weight Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Add Weight.jpg" width="50%">
-
 
 #### User Item Review Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Item Review.jpg" width="50%">
