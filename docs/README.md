@@ -36,7 +36,7 @@
 
 # Mis-user Stories
 
-#### As a malicious user, I want to login as a registered user by using a brute-force attack, so I can steal personal health information.
+#### As a malicious user, I want to login as a registered user using a brute-force attack, so I can steal personal health information.
 
 #### As a malicious user, I want to script the creation of multiple users, so I can perform a denial of service attack.
 
