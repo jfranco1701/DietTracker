@@ -72,6 +72,9 @@
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Add Weight.jpg" width="50%">
 
 
+#### User Item Review Page
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Item Review.jpg" width="50%">
+
 # Architecture Diagram
 
 
