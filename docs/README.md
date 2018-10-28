@@ -80,5 +80,5 @@
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/System Context Diagram.jpg" width="75%">
 
 ### API Component Diagram
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/API Component Diagram.jpg" width="75%">
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/API Component Diagram.png" width="75%">
 
