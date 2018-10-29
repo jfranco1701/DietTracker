@@ -77,7 +77,7 @@
 # Architecture Diagrams
 
 ### System Context Diagram
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/System Context Diagram.jpg" width="75%">
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/System Context Diagram.jpg" width="65%">
 
 ### Container Diagram
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Container Diagram.png" width="100%">
