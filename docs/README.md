@@ -82,3 +82,7 @@
 ### API Component Diagram
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/API Component Diagram.png" width="100%">
 
+### Single-Page Application Component Diagram
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/SPA Component Diagram.png" width="100%">
+
+
