@@ -79,6 +79,9 @@
 ### System Context Diagram
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/System Context Diagram.jpg" width="75%">
 
+### Container Diagram
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Container Diagram.jpg" width="75%">
+
 ### Single-Page Application Component Diagram
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/SPA Component Diagram.png" width="100%">
 
