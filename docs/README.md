@@ -67,8 +67,8 @@
 #### Create Item Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Create Item.jpg" width="50%">
 
-
-
+#### Add Weight Page
+<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Add Weight.jpg" width="50%">
 
 
 # Architecture Diagrams
