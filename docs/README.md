@@ -61,17 +61,13 @@
 #### Search Item Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Search Item.jpg" width="50%">
 
-#### Create Item Page
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Create Item.jpg" width="50%">
-
 #### My Favorites Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/My Favorites.jpg" width="50%">
 
 #### Add Weight Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Add Weight.jpg" width="50%">
 
-#### User Item Review Page
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Item Review.jpg" width="50%">
+
 
 # Architecture Diagrams
 
