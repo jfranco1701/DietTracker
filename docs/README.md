@@ -39,7 +39,7 @@
 * The register user page will require a the use of a mechanism that will ensure that a human is actually creating the account and not a bot.
 
 #### As a malicious user, I want to create custom food items that contain malicious scripts, so I can carry out cross-site scripting attacks.
-* Input to the system will 
+* Input to the system will need to be sanitized to prevent the introduction of malicious scripts.
 
 # Website Mockup
 
