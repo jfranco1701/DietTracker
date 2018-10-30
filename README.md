@@ -1,6 +1,6 @@
 # DietTracker
 
-DietTracker is an application that can be used to track the daily intake of food and beverages.  This allows the user to know how many calories that they are eating each day and to track the progess of their weight loss.  DietTracker was developed using Angular on the frontend and Django for the backend.
+DietTracker is an application that can be used to track the daily intake of food and beverages.  This allows the user to know how many calories that they are eating each day and to track the progess of their weight loss.  DietTracker was developed using Angular for the frontend and Django for the backend.
 
 
 ## Installation
