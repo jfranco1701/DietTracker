@@ -1,8 +1,21 @@
 # DietTracker
 
+DietTracker is an application that can be used to track the daily intake of food and beverages.  This allows the user to know how many calories that they are eating each day and to track the progess of their weight loss.  DietTracker was developed using Angular for the frontend and Django for the backend.
+
+
 ## Installation
+```bash
+docker-build .
+docker-compose run django bash
+python manage.py migrate
+python manage.py createsuperuser
+```
 
 ## Getting Started
+To run my awesome app simply,
+```bash
+docker-compose up
+```
 
 # License
 MIT License
