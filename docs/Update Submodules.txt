@@ -1,0 +1,7 @@
+CD to project folder in DietTracker
+
+git pull --recurse-submodules
+
+git pull origin master (if necessary to update laptop)
+
+git push --set-upstream origin master
