@@ -1,6 +1,6 @@
 # DietTracker
 
-DietTracker is an application that is used to track a user's daily intake of food and beverages. DietTracker allows the user to search for nutrition information in the USDA Food Composition Databases or manually enter values for items.  Commonly consumed items can be added to a list of favorites which allows for quicker entry of them in the future.  The application also allows the user to track their current weight.  The user is able to display graphs which allows for easy review the progress of their weight loss.   
+DietTracker is an application that is used to track a user's daily intake of food and beverages. DietTracker allows the user to search for nutrition information in the USDA Food Composition Databases or manually enter values for items.  Commonly consumed items can be added to a list of favorites which allows for quicker entry of them in the future.  The application also allows the user to track their current weight.  The user is able to view several graphs which allows for the easy review of their weight loss over time.   
 
 DietTracker was developed using Angular on the frontend, Django for the backend API and PostgreSQL for the database. 
 
@@ -9,7 +9,7 @@ DietTracker was developed using Angular on the frontend, Django for the backend 
 docker-build .
 docker-compose run django bash
 python manage.py migrate
-python manage.py createsuperuser
+python manage.py createsuperuser --username admin --email admin
 ```
 
 ## Getting Started
