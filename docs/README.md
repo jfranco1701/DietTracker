@@ -8,12 +8,12 @@
 * When not logged on to the system, I can enter my email address and password on the login page.  
 * I can click the “Login” button and if the proper credentials have been entered, the system will log me in.
 
-#### As a general user, I want to be able to display a graph of my progress, so I can view the progress of my diet.
+#### As a general user, I want to be able to display a graph of data entered into the system, so I can view the progress of my diet.
 * When logged in to the system, I can view a graph of my progress from the site's home page.
 
 #### As a general user, I want to search for food items I have consumed and add them to a meal, so I can track my daily intake.
 * I can enter my search criteria for the food or beverage item.
-* I can click the "Search" button to search user created meal items and the USDA Food Composition Database using their REST API.
+* I can click the "Search" button to search user favorites and the USDA Food Composition Database using their REST API.
 * I can view the results that meet my search criteria.
 * I can select an item from the list.
 * I can save the food item, quantity and meal type in the system.
