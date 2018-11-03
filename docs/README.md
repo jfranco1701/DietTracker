@@ -30,6 +30,10 @@
 * I can view a list of all the system users.
 * I can select a user from the list and make updates, disable the account or delete it.
 
+#### As an admin user, I want to initiate a database update from the USDA REST API, so I can keep my local copy current.
+* I can view a list of all the system users.
+* I can select a user from the list and make updates, disable the account or delete it.
+
 # Mis-user Stories
 
 #### As a malicious user, I want to login as a registered user using a brute-force attack, so I can steal personal health information.
