@@ -58,8 +58,6 @@
 #### Add Meal Item Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Add Meal Item.jpg" width="50%">
 
-#### Search Item Page
-<img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/Search Item.jpg" width="50%">
 
 #### My Favorites Page
 <img src="https://github.com/jfranco1701/DietTracker/blob/master/docs/My Favorites.jpg" width="50%">
