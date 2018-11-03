@@ -31,8 +31,8 @@
 * I can select a user from the list and make updates, disable the account or delete it.
 
 #### As an admin user, I want to initiate a database update from the USDA REST API, so I can keep my local copy current.
-* I can view a list of all the system users.
-* I can select a user from the list and make updates, disable the account or delete it.
+* I can click the "Update" button which will initiate the update of food data.
+
 
 # Mis-user Stories
 
