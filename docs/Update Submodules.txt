@@ -4,5 +4,9 @@ git submodule foreach git pull origin master
 
 git pull (if needed)
 
+git add -A
+
+git commit -m "Message"
+
 git push
 
